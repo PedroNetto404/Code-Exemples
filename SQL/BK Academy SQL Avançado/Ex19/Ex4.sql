@@ -1,0 +1,3 @@
+USE EXERCICIO_12;
+
+SELECT * FROM tb_empregado;
